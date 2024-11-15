@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JonathanUrbinaCayetano/zurdo-jona.git/static/css/main.9de9ca94.css",
+    "main.js": "/JonathanUrbinaCayetano/zurdo-jona.git/static/js/main.9046daef.js",
+    "static/js/453.2accbebf.chunk.js": "/JonathanUrbinaCayetano/zurdo-jona.git/static/js/453.2accbebf.chunk.js",
+    "index.html": "/JonathanUrbinaCayetano/zurdo-jona.git/index.html",
+    "main.9de9ca94.css.map": "/JonathanUrbinaCayetano/zurdo-jona.git/static/css/main.9de9ca94.css.map",
+    "main.9046daef.js.map": "/JonathanUrbinaCayetano/zurdo-jona.git/static/js/main.9046daef.js.map",
+    "453.2accbebf.chunk.js.map": "/JonathanUrbinaCayetano/zurdo-jona.git/static/js/453.2accbebf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9de9ca94.css",
+    "static/js/main.9046daef.js"
+  ]
+}
